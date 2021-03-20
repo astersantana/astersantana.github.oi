@@ -1,2 +1,2 @@
-# astersantana.github.oi
+# Aster Santana
 My personal website
